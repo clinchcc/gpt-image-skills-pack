@@ -2,6 +2,8 @@
 
 ![封面：手帐拼贴风](assets/cover.jpg)
 
+完整说明和更多效果图：[cwyz.com 上的 Skill 页面](https://cwyz.com/zh/skills/vane-gpt-image-skills)
+
 把这个 Skill 交给你的 AI Agent，它会一次装好六个 GPT Image 2.6 生图 Skill。之后你只要说"用手帐拼贴风把这段话做成小红书图文"，它就照着现成的风格和版式出图。
 
 | Skill | 能做什么 |
@@ -50,8 +52,8 @@ python3 scripts/install_skills.py --all
 
 ## 来源和许可
 
-六个生图 Skill 来自 [VaneAi888/vane-gpt-image-skills](https://github.com/VaneAi888/vane-gpt-image-skills)（MIT）。本仓库只是一份安装和使用说明，同样用 MIT 许可。示例图里的片名、人物和宠物都是 AI 生成的，和真实作品无关。
+六个生图 Skill 来自 [VaneAi888/vane-gpt-image-skills](https://github.com/VaneAi888/vane-gpt-image-skills)（MIT）。本仓库只是一份安装和使用说明，同样用 MIT 许可。中文介绍见 [cwyz.com/zh/skills/vane-gpt-image-skills](https://cwyz.com/zh/skills/vane-gpt-image-skills)。示例图里的片名、人物和宠物都是 AI 生成的，和真实作品无关。
 
 ## English
 
-An installer skill for your AI agent: it sets up six open-source GPT Image 2.6 skills by VaneAi888 (Xiaohongshu posts, cinematic posters, animated stickers, WeChat red packet covers, pet New Year portraits, book-to-film posters). Give your agent `https://github.com/clinchcc/gpt-image-skills-pack` and ask it to install the skill. Needs an agent with an image-generation tool. MIT licence.
+An installer skill for your AI agent: it sets up six open-source GPT Image 2.6 skills by VaneAi888 (Xiaohongshu posts, cinematic posters, animated stickers, WeChat red packet covers, pet New Year portraits, book-to-film posters). Give your agent `https://github.com/clinchcc/gpt-image-skills-pack` and ask it to install the skill. Needs an agent with an image-generation tool. MIT licence. Full guide: [cwyz.com/skills/vane-gpt-image-skills-en](https://cwyz.com/skills/vane-gpt-image-skills-en).
